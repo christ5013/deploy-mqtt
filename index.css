@@ -1,0 +1,38 @@
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-top: 10px;
+  }
+  .bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+  .container{
+      max-width: 860px;
+      display: flex;
+  }
+
+ .h4Class{
+    text-align: center;
+ } 
+ .form-control{
+     width: 250px;
+ }
+ .contentContainer{
+     display: flex;
+ }
+ th{
+    border-top: none;
+    border-bottom: none;
+}
+th,td{
+    border-bottom: 2px solid lightgrey;
+    width: 300px;
+    text-align:center;
+}
+table{
+    width: 100px;
+}
+ 
+
